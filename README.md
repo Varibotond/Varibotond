@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi there! I'm passionate about all things networking and tech.<br><br>I enjoy working with:<br><br>    🖧 Cisco technologies & network infrastructure<br><br>    🐍 Python scripting and automation<br><br>    🌐 Web basics: HTML & CSS<br><br>    🖥️ Servers, virtualization, and backend systems<br><br>    🐧 Linux environments and CLI tools<br><br>I'm always learning and exploring ways to connect systems, improve performance, and build smarter networks. Feel free to check out my projects or connect!
+<br>👋 Hi there! I'm passionate about all things networking and tech.<br><br>I enjoy working with:<br><br>    🖧 Cisco technologies & network infrastructure<br><br>    🐍 Python scripting and automation<br><br>    🌐 Web basics: HTML & CSS<br><br>    🖥️ Servers, virtualization, and backend systems<br><br>    🐧 Linux environments and CLI tools<br><br>I'm always learning and exploring ways to connect systems, improve performance, and build smarter networks. Feel free to check out my projects or connect!
 
 
 # 💻 Tech Stack:
