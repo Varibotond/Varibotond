@@ -20,8 +20,17 @@
 </div>
 
 # 📊 GitHub Stats:
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Varibotond&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Varibotond&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varibotond&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
+
+<div align="center">
+  
 ![snake gif](https://github.com/Varibotond/Varibotond/blob/output/github-snake-dark.svg)
+
+
+</div>
