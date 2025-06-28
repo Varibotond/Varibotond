@@ -1,13 +1,13 @@
 # 💫 About Me:
-<br>👋 Hi there! I'm passionate about all things networking and tech.<br><br>I enjoy working with:<br><br>    🖧 Cisco technologies & network infrastructure<br><br>    🐍 Python scripting and automation<br><br>    🌐 Web basics: HTML & CSS<br><br>    🖥️ Servers, virtualization, and backend systems<br><br>    🐧 Linux environments and CLI tools<br><br>I'm always learning and exploring ways to connect systems, improve performance, and build smarter networks. Feel free to check out my projects or connect!
 
+<br>👋 Hi there! I'm passionate about all things networking and tech.<br><br>I enjoy working with:<br><br>    🖧 Cisco technologies & network infrastructure<br><br>    🐍 Python scripting and automation<br><br>    🌐 Web basics: HTML & CSS<br><br>    🖥️ Servers, virtualization, and backend systems<br><br>    🐧 Linux environments and CLI tools<br><br>I'm always learning and exploring ways to connect systems, improve performance, and build smarter networks. Feel free to check out my projects or connect!
 
 # 💻 Tech Stack:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Varibotond&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Varibotond&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varibotond&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/Varibotond/Varibotond/blob/output/github-snake-dark.svg)
